@@ -13,7 +13,10 @@
 
 与全球绿色能源实体资产相连，从而实现全球绿色能源自治社区。
 
-<code>DGE</code>是<code>DGEFi协议</code>的标准令牌，首次发行的股票总数为100万股，即最初发行的100万股<code>DGE</code>。
+<code>DGE</code>是<code>DGEFi协议</code>的标准令牌，不设总发行量，<code>DGE</code>的流通量完全由市场决定。不设团队预留及分享，不设预挖矿池。
+      将先后在uniswap、sushiswap、curve等平台上开设交易对，初始交易对为DGE-ETH、DGE-USDT、DGE-DAI每个交易池，分配15000枚DGE， 之后将逐步开通DGE-YFI、DGE-HT、DGE-CRV等。
+
+<code>DGE</code>。
 
 <code>DGEFi协议</code>的核心是一种灵活的供应加密数字货币机制，该机制将根据市场情况增加和减少其供应。其目标是增加或减少基础数字资产，每个<code>DGE</code>代表的内在价值不会因通货膨胀而过度贬值。
 
